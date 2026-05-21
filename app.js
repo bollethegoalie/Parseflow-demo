@@ -3,23 +3,44 @@ const jsonOut = document.getElementById('jsonOut');
 const rawBtn = document.getElementById('rawBtn');
 const simpleBtn = document.getElementById('simpleBtn');
 const copyBtn = document.getElementById('copyBtn');
+const pdfLink = document.getElementById('pdfLink');
+const pdfStatus = document.getElementById('pdfStatus');
 
 let rawData = null;
 
 function simplify(data) {
+  const authors = Array.isArray(data.authors) ? data.authors : [];
+  const reactions = Array.isArray(data.reactions) ? data.reactions : [];
   return {
     document_title: data.document_title,
     language: data.language,
-    authors_count: data.authors.length,
-    authors_preview: data.authors.slice(0, 3),
+    authors_count: authors.length,
+    authors_preview: authors.slice(0, 3),
     research_question: data.research_question,
     experiment_summary: {
-      reactions_count: data.reactions.length,
+      reactions_count: reactions.length,
       key_reagents: data.key_reagents,
       core_conclusion: data.conclusion
     },
     metrics: data.metrics
   };
+}
+
+async function checkPdfAvailability() {
+  try {
+    const res = await fetch('assets/source.pdf', { method: 'HEAD' });
+    if (res.ok) {
+      pdfStatus.textContent = 'PDF detected: click Open PDF to view the original sample.';
+      return;
+    }
+  } catch (_err) {
+    // No-op: handled below.
+  }
+
+  pdfLink.setAttribute('aria-disabled', 'true');
+  pdfLink.style.pointerEvents = 'none';
+  pdfLink.style.opacity = '0.55';
+  pdfStatus.textContent = 'No PDF found yet at assets/source.pdf. Upload one to enable this link.';
 }
 
 async function loadDemo() {
@@ -29,6 +50,8 @@ async function loadDemo() {
   const jsonRes = await fetch('data/extracted.json');
   rawData = await jsonRes.json();
   jsonOut.textContent = JSON.stringify(rawData, null, 2);
+
+  await checkPdfAvailability();
 }
 
 rawBtn.addEventListener('click', () => {

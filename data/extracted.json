@@ -39,5 +39,5 @@
     "theoretical_aspirin_mass_g": 3.909
   },
   "conclusion": "La chaleur et le catalyseur ont favorise la formation du produit, mais la precision du rendement a ete affectee par des erreurs experimentales.",
-  "trust_note": "Fields extracted from real source content in test_unzipped/document.md"
+  "provenance": "Structured from the visible source excerpt in this demo."
 }
