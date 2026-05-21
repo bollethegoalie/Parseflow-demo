@@ -1,300 +1,314 @@
-Laboratoire 1: Synthèse de l’Ester (Estérification)
+Lab 1: Ester Synthesis (Esterification)
 SCH4U
-Enseignant(e)
-Vendredi 27 Février 2026
-Ecole secondaire anonymisee
-Conseil scolaire anonymise
-Etudiant A,
-Etudiant B,
-Etudiant C
-Question de Recherche :
-La synthèse des esters est une réaction très importante dans plusieurs industries essentielles. La compréhension des facteurs qui influencent la formation d’un esters, comme la température et la présence d’un catalyseur, est très importante pour optimiser le rendement de ces réactions.
-Cette expérience nous permettra de déterminer si la présence d’un catalyseur acide et l’augmentation de la température influencent la formation et le rendement d’un ester lors d’une réaction d'estérification. Alors notre question de recherche serait: Comment la présence de chaleur et d’un catalyseur acide influence le produit d’une réaction d'estérification.
-Introduction :
-La formation d’esters est une transformation chimique très importante dans la chimie organique. L'une des méthodes les plus courantes est la réaction d'estérification entre un acide carboxylique et un alcool qui produit un ester et de l’eau. Les esters suivent le formule général: R-C(=O)−O−R', avec R-C(=O) provenant de l’acide d’origine puis -O-R’ qui est un groupe alkyle provenant de l’alcool. Cette réaction est un d’équilibre catalysé par un acide fort, tel que l’acide sulfurique (H2SO4), qui peut aussi servir comme d’agent déshydratant dans certaines réactions. Puisqu’il s’agit d’une réaction réversible, on peut utiliser le principe de Le Chatelier qui explique que le changement des facteurs déterminants, par exemple l'utilisation d’un excès réactif ou d’un agent déshydratant, permet de déplacer l'équilibre vers la formation de l’ester. Les esters sont responsables de plusieurs odeurs et arômes naturels et jouent un rôle important dans les industrie alimentaire, pharmaceutique, ainsi que la fabrication des polymères comme le polyester.
-L'équation générale d’une réaction d'estérification est la suivante:
-Acide carboxylique + Alcool → Ester + Eau
-Dans ce laboratoire nous effectuerons deux réactions de synthèse impliquant la formation d’esters: une réaction d'estérification et une réaction d'acétylation. Puisque l'estérification est une réaction d'équilibre, elle serait réalisée sous chauffage et en présence d’un catalyseur acide pour améliorer la formation du produit. La première réaction serait de produire l'acétate de pentyle (C7H14O2) en utilisant l’acide acétique (CH3COOH) et le pentanol (C5H12O) comme réactifs. La deuxième réaction utilisera l'acétylation qui permet d’introduire un groupe acétyle dans une molécule organique qui permettant de synthétiser l’acide acétylsalicylique (C9H8O4), mieux connu comme l’Aspirine, en utilisant l’acide salicylique (C7H6O3) et l’anhydride acétique (C4H6O3). L’anhydride acétique est plus réactif qu’un acide carboxylique simple, ce qui augmente la vitesse et rendement de la réaction de synthèse.
-L’objectif de ce laboratoire est de produire deux esters par réaction d'estérification et d'acétylation, puis identifier qualitativement l’ester formé lors de la première réaction et puis déterminer quantitativement le rendement expérimental d’acide acétylsalicylique (C9H8O4) lors de la deuxieme reaction.
-Hypothèse :
-Si la température augmente et que l’acide sulfurique est présent comme catalyseur, alors l’équilibre de la réaction d’estérification sera favorisé vers la formation de l’ester, ce qui augmentera la quantité de produit observée, conformément au principe de Le Chatelier et à l’augmentation de la vitesse de réaction.
-Variables :
-Variable indépendante et dépendante
-La variable indépendante est la température de la réaction (60 °C et 100 °C) ainsi que la présence d’un catalyseur acide (acide sulfurique, H₂SO₄). Cette variable a été modifiée en chauffant le bain-marie à deux températures différentes et en variant la quantité du catalyseur au mélange réactionnel.
-La variable dépendante est la formation du produit. Dans la réaction 1, elle a été observée qualitativement par l’odeur fruitée caractéristique de l’ester (acétate de pentyle). Dans la réaction 2, elle a été mesurée quantitativement par la masse d’acide acétylsalicylique (aspirine) obtenue après la filtration et le séchage, ce qui a permis de calculer le rendement expérimental.
-Variables contrôlées
-Matériel :
-Méthode :
-Mettre des lunettes de sécurité, un sarrau de laboratoire et des gants avant de manipuler des produits chimiques.
-Nettoyer tous les matériaux nécessaires pour les deux réactions.
-Pour la reaction 1:
-Mesurer environ 200mL d’eau du robinet à l'aide d’un cylindre gradué.
-Verse l’eau dans un bécher de 500 mL.
-Placer le bécher sur une plaque chauffante de 60°C.
-Ajouter un thermomètre dans le bécher pour mesurer la température.
-Mesurer 1 mL d’acide acétique à l’aide d’une pipette graduée et le verser dans un tube d’essai étiqueter.
-Mesurer 1 mL de pentanol-1 a l’aide d’une pipette graduée et le verser dans le même tube d’essai étiqueter.
-Ajouter 3 gouttes d’acide sulfurique concentré au mélange dans le tube d’essai étiqueter à l'aide de l’enseignant.
-Noter les observations.
-Répéter les étapes D-H, 2 autres fois pour créer trois essais.
-Assurer que la température d’eau est à 60°C en utilisant le thermomètre.
-Ajouter les 3 tubes d’essai dans l’eau réchauffée.
-Commence un minuteur de 15 minutes et assure que la température reste constante.
-Retirer les tubes d’essai du l’eau après 15 minutes et placez- les dans le support universel.
-Noter les observations.
-Séparer la première couche de chaque tube en utilisant une pipette et les transférer dans des flacons d'échantillon différents.
-Notez les observations qualitatives de chaque flacon incluant l’odeur dégagée.
-Nettoyer les tubes d’essai utilisés pendant la réaction et jeter les produit chimique selon les consignes de l'enseignant.
-Répéter les étapes 1-17, avec l’eau d'être chauffée à 100°C.
-Pour la reaction 2:
-Mesurer environ 200mL d’eau du robinet à l'aide d’un cylindre gradué.
-Verse l’eau dans un bécher de 500 mL.
-Placer le bécher sur une plaque chauffante de 60°C et ajouter un thermomètre dans le bécher pour mesurer la température.
-Peser 3 g d'acide salicylique à l'aide d’une balance analytique et noter la masse exacte utilisée.
-Transférer l’acide salicylique dans un erlenmeyer de 125 mL étiqueter.
-Mesurer 2.5 mL d’anhydride acétique à l’aide d’une pipette graduée et l'ajouter à l’erlenmeyer.
-Mesurer 3 mL d’acide glacial a l’aide d’une pipette graduée et l'ajouter au mélange réactionnel.
-Ajouter 1 mL d’acide sulfurique à l’aide de l’enseignante dans l'erlenmeyer.
-Agiter, à l'aide d’une tige de verre, doucement le mélange pour que l’acide salicylique soit complètement dissous.
-Noter les observations.
-Répéter les étapes D-J, 2 autres fois pour créer trois essais.
-Assurer que la température d’eau est de 60°C en utilisant le thermomètre.
-Ajouter les 3 erlenmeyers dans l’eau réchauffée.
-Commence un minuteur de 15 minutes et assure que la température reste constante.
-Retirer les erlenmeyer du l’eau après 15 minutes.
-Ajouter 20 mL d’eau distillée froide dans chaque erlenmeyer.
-Noter les observations.
-Agiter avec une tige de verre les erlenmeyer et gratter doucement les parois pour provoquer la formation des cristaux.
-Peser un papier filtre en utilisant une balance analytique et noter sa masse exacte.
-Filtrer le mélange avec le papier filtre et laisser sécher pendant 24 heures.
-Peser le papier filtre avec le mélange et notez la masse.
-Répéter les étapes S-U, pour chaque essai.
-Nettoyer les erlenmeyer utilisés pendant la réaction et jeter les produit chimique selon les consignes de l'enseignant.
-Répéter les étapes 1-23, avec l’eau chauffée à 100°C.
-Nettoyer tous matériaux, utiliser et jeter les mélange chimique selon les consignes de l’enseignant.
-Risques :
+Instructor
+Friday, February 27, 2026
+Anonymous Secondary School
+CSViamonde
+Student A,
+Student B,
+Student C
+Research Question:
+Ester synthesis is a very important reaction in several key industries. Understanding the factors that influence ester formation, such as temperature and the presence of a catalyst, is crucial for optimizing the yield of these reactions.
+This experiment will allow us to determine whether the presence of an acid catalyst and increased temperature influence the formation and yield of an ester during an esterification reaction. Therefore, our research question is: How do the presence of heat and an acid catalyst influence the product of an esterification reaction?
+
+Introduction:
+Ester formation is a very important chemical transformation in organic chemistry. One of the most common methods is the esterification reaction between a carboxylic acid and an alcohol, which produces an ester and water. Esters follow the general formula: R-C(=O)−O−R', where R-C(=O) comes from the original acid and -O−R' is an alkyl group from the alcohol. This reaction is an equilibrium reaction catalyzed by a strong acid, such as sulfuric acid (H₂SO₄), which can also serve as a dehydrating agent in certain reactions. Since it is a reversible reaction, Le Chatelier's principle can be applied, which explains that changing the determining factors, for example, using an excess of reactant or a dehydrating agent, shifts the equilibrium towards ester formation. Esters are responsible for many natural odors and aromas and play an important role in the food and pharmaceutical industries, as well as in the manufacture of polymers such as polyester.
+
+The general equation for an esterification reaction is:
+Carboxylic acid + Alcohol → Ester + Water
+In this lab, we will perform two synthetic reactions involving the formation of esters: an esterification reaction and an acetylation reaction. Since esterification is an equilibrium reaction, it will be carried out under heating and in the presence of an acid catalyst to enhance product formation. The first reaction will produce pentyl acetate (C7H14O2) using acetic acid (CH3COOH) and pentanol (C5H12O) as reactants. The second reaction will utilize acetylation, which introduces an acetyl group into an organic molecule. This allows the synthesis of acetylsalicylic acid (C9H8O4), better known as Aspirin, using salicylic acid (C7H6O3) and acetic anhydride (C4H6O3). Acetic anhydride is more reactive than a simple carboxylic acid, thus increasing the rate and yield of the synthesis reaction.
+
+The objective of this lab is to produce two esters through esterification and acetylation reactions, then to qualitatively identify the ester formed in the first reaction and quantitatively determine the experimental yield of acetylsalicylic acid (C9H8O4) in the second reaction.
+
+Hypothesis:
+If the temperature increases and sulfuric acid is present as a catalyst, then the esterification reaction equilibrium will shift towards ester formation, thus increasing the amount of product observed, in accordance with Le Chatelier's principle and the increased reaction rate.
+
+Variables:
+Independent and Dependent Variables
+The independent variable is the reaction temperature (60 °C and 100 °C) and the presence of an acid catalyst (sulfuric acid, H₂SO₄). This variable was modified by heating the water bath to two different temperatures and varying the amount of catalyst in the reaction mixture.
+
+The dependent variable is product formation. In reaction 1, this was observed qualitatively by the characteristic fruity odor of the ester (pentyl acetate). In reaction 2, the yield was measured quantitatively by the mass of acetylsalicylic acid (aspirin) obtained after filtration and drying, allowing the experimental yield to be calculated.
+
+Controlled Variables
+Materials:
+Method:
+Wear safety glasses, a lab coat, and gloves before handling chemicals.
+Clean all materials needed for both reactions.
+
+For reaction 1:
+Measure approximately 200 mL of tap water using a graduated cylinder.
+Pour the water into a 500 mL beaker.
+Place the beaker on a 60°C hot plate.
+Add a thermometer to the beaker to measure the temperature.
+Measure 1 mL of acetic acid using a graduated pipette and transfer it into a labeled test tube.
+
+Measure 1 mL of pentanol-1 using a graduated pipette and pour it into the same labeled test tube.
+
+
+Add 3 drops of concentrated sulfuric acid to the mixture in the labeled test tube (with the teacher's assistance).
+Record observations.
+Repeat steps D-H two more times to create three trials.
+Ensure the water temperature is 60°C using a thermometer.
+Add the three test tubes to the warmed water.
+Start a 15-minute timer and ensure the temperature remains constant.
+Remove the test tubes from the water after 15 minutes and place them in the universal rack.
+Record observations.
+Separate the first layer from each tube using a pipette and transfer the samples into separate sample bottles.
+Record qualitative observations for each bottle, including the odor.
+Clean the test tubes used during the reaction and dispose of the chemicals according to the teacher's instructions. Repeat steps 1-17, with the water heated to 100°C.
+
+For reaction 2:
+Measure approximately 200 mL of tap water using a graduated cylinder.
+Pour the water into a 500 mL beaker.
+Place the beaker on a 60°C hot plate and add a thermometer to the beaker to measure the temperature.
+Weigh out 3 g of salicylic acid using an analytical balance and record the exact mass used.
+Transfer the salicylic acid into a labeled 125 mL Erlenmeyer flask.
+Measure 2.5 mL of acetic anhydride using a graduated pipette and add it to the Erlenmeyer flask.
+Measure 3 mL of glacial acid using a graduated pipette and add it to the reaction mixture.
+Add 1 mL of sulfuric acid to the Erlenmeyer flask with the teacher's assistance.
+Gently swirl the mixture with a glass rod until the salicylic acid is completely dissolved.
+Record your observations.
+Repeat steps D-J two more times to create three trials.
+Ensure the water temperature is 60°C using a thermometer.
+Add the three Erlenmeyer flasks to the warmed water.
+Start a 15-minute timer and ensure the temperature remains constant.
+Remove the Erlenmeyer flasks from the water after 15 minutes.
+Add 20 mL of cold distilled water to each Erlenmeyer flask.
+Record your observations. Swirl the Erlenmeyer flasks with a glass rod and gently scrape the sides to encourage crystal formation.
+Weigh a piece of filter paper using an analytical balance and record its exact mass.
+Filter the mixture through the filter paper and let it dry for 24 hours.
+Weigh the filter paper containing the mixture and record its mass.
+Repeat steps S-U for each trial.
+Clean the Erlenmeyer flasks used during the reaction and dispose of the chemicals according to the instructor's instructions.
+Repeat steps 1-23 with water heated to 100°C.
+Clean all materials, use, and dispose of the chemical mixture according to the instructor's instructions. Risks:
 Observations:
-Réaction 1: Acide acétique, pentanol, acide sulfurique
-Qualitatives
-NOTE *Pas d’observations quantitatives pour cette réaction*
-Réaction 2: Acide salicylique, anhydre acétique, acide sulfurique
-Qualitatives
-Quantitatives
-Analyse :
-Réaction 1
-Équations chimiques
-Acide acétique + pentanol  Acétate de pentyl + Eau
-Réaction 2
-Équations chimiques
-Acide salicylique + Anhydre acétique   Acide acétylsalicylique + Acide acétique
-Rendement et calculs molaires
-Masse molaire d’aspirine (C9H8O4): 180,16 g/mol
-9MC + 8MH + 4MO = 9(12,01 g/mol) + 8(1, 01 g/mol) + 4(16 g/mol)
-= 108,09 g/mol + 8,08 g/mol + 64 g/mol
-= 180,17 g/mol
-Masse molaire d’acide salicylique (C7H6O3):
-7MC + 6MH + 3MO = 7(12,01 g/mol) + 6(1, 01 g/mol) + 3(16 g/mol)
-= 84,07 g/mol + 6,06 g/mol + 48 g/mol
-= 138,13 g/mol
-Moles de réactif limitant (3 g d’acide salicylique)
-n = (3 g)/(138,12 g/mol) = 0,0217 mol
-Masse théorique d’aspirine (g):
-m = 0,0217 mol x 180,16 g/mol = 3,909 g
-Écart type :
-60 Degrées						100 Degrées
-L’écart type obtenu à 60 °C est de 0,182 g, tandis qu’à 100 °C il est de 0,247 g. Un écart type plus faible signifie que les résultats sont plus regroupés autour de la moyenne et donc plus reproductibles. Ainsi, les essais à 60 °C présentent une meilleure précision expérimentale, alors que ceux réalisés à 100 °C montrent une plus grande dispersion des mesures.
-L’analyse du laboratoire nous permet d’expliquer et comprendre les décisions, résultats obtenus, et erreurs possibles au cours du synthèse organique; l’estérification. L’étude combine des observations appliqués et théoriques, qualitatives et pas quantitatives pour la première réaction parce qu’on étudie seulement la fabrication d’un arome grâce à l’estérification. Au contraire, la deuxième réaction comprend des observations quantitatives vigoureuse afin de déterminer le rendement résultant.
-La première réaction, qui visait la production d’acétate de pentyle, créant une odeur distincte de banane a été plutôt un succès. Le passage d’un odeur aigre, propre a l’acide acétique, à une fragrance fruitée, est une preuve qualitative de la formation de groupement ester (Vogel 1989). Dans le domaine physique, la méthode de décantation a enchainé la formation de deux étapes. L’ester, une molécule moins polaire et moins dense que la phase aqueuse, s’est distingué dans la couche supérieure du liquide (Zubrick 2014). L’efficacité du processus chimique a été renforcer avec l’ajout de NaCl saturé, qui a diminué la solubilité de l’ester dans l’eau (en augmentant la force ionique de la solution), augmentant ainsi le volume récupéré dans la phase organique et fournissant un résultat plus précis (Atkins et Jones 2005). Cependant, l’odeur persistante d’alcool signifie une réaction incomplète, du a la manque de réaction avec le pentanol.
-Deuxièmement, les observations quantitatives de la synthèse d’aspirine dans la réaction 2 présente des résultats très variées. Ceci est à cause des plusieurs étapes dont nous avons dû compléter pour arriver aux résultats finals et les erreurs systémiques des matériaux. Par exemple, nous n'avions pas assez de bain-marie donc on a dû utiliser un bécher dessus une plaque chauffante. Cette méthode a levé plusieurs inexactitudes dans notre laboratoire, tels que des températures incohérent. À 60 °C, les rendements calculés (environ 90 % à 99 %) suggèrent une réaction efficace et une précipitation relativement pure. Les deux causes les plus probables de la perte de produit sont la température du bain marie qui fluctue beaucoup, et le manque de précision avec la balance (Olmsted 1998). Au contraire, les essais réalisés à 100 °C ont des rendements supérieurs (environ 104 % à 117 %). Puisque le rendement théorique maximal est de 100% selon la stœchiométrie calculée de la réaction, ces données indiquent des résultats soit mal mesurés, ou avec une évaporation incomplète. L’absence de séchage prolongée (pendant la nuit) est la cause principale de rendement imprécis à cause de l’eau ou acide encore emprisonnée dans le cristaux (Journal of Chemical Education 2012). De plus, une température de 100 °C se rapproche des points de décomposition de certains réactifs, provoquant peut-être la formation des sous-produits solides qui ont été mesurer avec l’aspirine pure (Merck 2020).
-L’acide sulfurique comme catalyseur forme la fondation pour ces synthèses. Lors de la réaction 1, il donne un électron au groupe carbonyle, donnant ainsi l’opportunité au group alcool de réagir (Clayden, Greeves et Warren 2012). En plus, il peut être un agent déshydratant: en séquestrant les molécules d’eau produites, il déplace l’équilibre chimique vers la droite selon le principe de Le Chatelier, favorisant la formation d’un groupement ester. Dans la réaction 2, l’usage d’acétique anhydre au lieu d’acide acétique simple est l’électrophile, qui a rendu la réaction d’acétylation plus rapide et moins réversible, permettant ainsi d’obtenir une quantité de produit plus précis dans une période réduit (Vogel 1989).
+Reaction 1: Acetic acid, pentanol, sulfuric acid
+Qualitative
+NOTE *No quantitative observations for this reaction*
+Reaction 2: Salicylic acid, acetic anhydrous, sulfuric acid
+Qualitative
+Quantitative
+Analysis:
+Reaction 1
+Chemical equations
+Acetic acid + pentanol → Pentyl acetate + Water
+Reaction 2
+Chemical equations
+Salicylic acid + acetic anhydrous → Acetylsalicylic acid + Acetic acid
+Yield and molar calculations
+Molar mass of aspirin (C9H8O4): 180.16 g/mol
+9MC + 8MH + 4MO = 9(12.01 g/mol) + 8(1.01 g/mol) + 4(16 g/mol)
+= 108.09 g/mol + 8.08 g/mol + 64 g/mol
+= 180.17 g/mol
+Molar mass of salicylic acid (C7H6O3):
+7MC + 6MH + 3MO = 7(12.01 g/mol) + 6(1.01 g/mol) + 3(16 g/mol)
+= 84.07 g/mol + 6.06 g/mol + 48 g/mol
+= 138.13 g/mol
+Moles of limiting reagent (3 g of salicylic acid)
+n = (3 g)/(138.12 g/mol) = 0.0217 mol
+Theoretical mass of aspirin (g):
+m = 0.0217 mol x 180.16 g/mol = 3.909 g
+Standard deviation:
+60 Degrees 100 Temperatures
+The standard deviation obtained at 60 °C is 0.182 g, while at 100 °C it is 0.247 g. A lower standard deviation means that the results are more clustered around the mean and therefore more reproducible. Thus, the tests at 60 °C exhibit better experimental precision, while those carried out at 100 °C show greater dispersion of measurements.
+The laboratory analysis allows us to explain and understand the decisions, results obtained, and possible errors during the organic synthesis: esterification. The study combines applied and theoretical observations, qualitative rather than quantitative, for the first reaction because we are only studying the production of a flavor through esterification. In contrast, the second reaction includes rigorous quantitative observations to determine the resulting yield.
+The first reaction, which aimed to produce pentyl acetate, creating a distinct banana scent, was quite successful. The change from a sour smell, characteristic of acetic acid, to a fruity fragrance, is qualitative evidence of the formation of ester groups (Vogel 1989). In the physical domain, the decantation method involved two steps. The ester, a less polar and less dense molecule than the aqueous phase, separated into the upper layer of the liquid (Zubrick 2014). The efficiency of the chemical process was enhanced by adding saturated NaCl, which decreased the ester's solubility in water (by increasing the ionic strength of the solution), thus increasing the volume recovered in the organic phase and providing a more accurate result (Atkins and Jones 2005). However, the persistent alcohol odor indicates an incomplete reaction due to the lack of reaction with pentanol.
+
+Secondly, the quantitative observations of the aspirin synthesis in reaction 2 show highly variable results. This is due to the multiple steps we had to complete to arrive at the final results and systemic errors in the materials. For example, we did not have enough water baths, so we had to use a beaker on a hot plate. This method resolved several inaccuracies in our laboratory, such as inconsistent temperatures. At 60 °C, the calculated yields (approximately 90% to 99%) suggest an efficient reaction and relatively pure precipitation. The two most likely causes of product loss are the highly fluctuating water bath temperature and the lack of precision with the balance (Olmsted 1998). Conversely, tests carried out at 100 °C show higher yields (approximately 104% to 117%). Since the maximum theoretical yield is 100% according to the calculated stoichiometry of the reaction, these data indicate either poorly measured results or incomplete evaporation. The lack of prolonged drying (overnight) is the main cause of inaccurate yields due to water or acid still trapped within the crystals (Journal of Chemical Education 2012). Furthermore, a temperature of 100 °C approaches the decomposition points of some reactants, perhaps causing the formation of the solid byproducts that have been measured with pure aspirin (Merck 2020).
+Sulfuric acid as a catalyst forms the basis for these syntheses. In reaction 1, it donates an electron to the carbonyl group, thus allowing the alcohol group to react (Clayden, Greeves, and Warren 2012). In addition, it can act as a dehydrating agent: by sequestering the water molecules produced, it shifts the chemical equilibrium to the right according to Le Chatelier's principle, favoring the formation of an ester group. In reaction 2, the use of anhydrous acetic acid instead of simple acetic acid is the electrophilic factor, which made the acetylation reaction faster and less reversible, thus allowing a more precise quantity of product to be obtained in a shorter time (Vogel 1989).
+
 Conclusion:
-Les résultats obtenus montrent que la formation de l’ester a bien eu lieu, comme l’indique l’odeur fruitée et la séparation en deux phases. La synthèse de l’aspirine a également produit un solide blanc correspondant à l’acide acétylsalicylique, mais les rendements supérieurs à 100 % indiquent la présence d’impuretés et un séchage incomplet du produit.
-Ainsi, l’hypothèse n’est pas réfutée, mais elle est seulement partiellement confirmée : la chaleur et le catalyseur ont favorisé la formation du produit, cependant la précision du rendement expérimental a été affectée par des erreurs expérimentales.
-Points forts de l’expériences :
-Erreurs systémiques:
-Mesure imprécise des volumes : Les volumes ont été mesurés avec une pipette de 1 mL (± 0,05 mL), un cylindre gradué en plastique de 10 mL (± 0,5 mL), des béchers de 50 mL (± 2,5 mL) et une balance électronique (± 0,01 g). La précision limitée a introduit une incertitude sur les quantités réelles de réactifs. Ces imprécisions ont influencé la quantité du produit et le rendement calculé.
-Bain de refroidissement non glacé : La solution n’a pas été suffisamment refroidie, donc l’aspirine est restée partiellement soluble et les cristaux formés ont retenu plus d’eau, ce qui a augmenté la masse.
-Présence d’impuretés dans les réactions : Pour la réaction 1, la phase organique contenait encore du pentanol et possiblement de l’eau ou de l’acide acétique. Le produit n’était donc pas pur. Pour la réaction 2, les cristaux récupérés ne contenaient pas uniquement de l’acide acétylsalicylique pur. Ils ont retenu de l’eau ainsi que d’autres liquides (acide acétique ou anhydrique acétique non réagi). La masse mesurée a donc augmenté, ce qui a donné un rendement supérieur à 100 %.
-Erreurs aléatoires :
-Produit resté dans l’appareil à décantation : Dans quelques essaies de la première réaction, l’ester n’a pas été récupérée parfaitement avec la pipette.
-Cristaux restés collés aux côtés de l’erlenmeyer : Dans l’essai 2 de la deuxième réaction, une partie de l’aspirine n’a pas été transférée au papier-filtre, ce qui a réduit la masse obtenue.
-Ajout accidentel d’eau distillée avant le chauffage : Dans l’essai 1 de la deuxiéme réaction, on a ajouté 10 mL d’eau distillée avant le chauffage. Donc, l’eau a dilué les réactifs et a déplacé l’équilibre chimique vers les réactifs, empêchant la réaction de se dérouler normalement.
-NaCl pas complètement dissous: La solution était moins concentrée que prévu. Une partie de l’ester est restée mélangée avec la phase aqueuse, ce qui a diminué la quantité d’ester récupérée.
-Limites de l’expérience:
-Bibliographie:
-Atkins, Peter, et Loretta Jones. Principes de chimie. Paris: De Boeck Supérieur, 2005.
-Clayden, Jonathan, Nick Greeves, et Stuart Warren. Organic Chemistry. 2e éd. Oxford: Oxford University Press, 2012.
-Journal of Chemical Education. « Common Pitfalls in the Undergraduate Aspirin Synthesis Lab. » Journal of Chemical Education 89, n° 4 (2012): 512-515.
-Merck & Co. The Merck Index: An Encyclopedia of Chemicals, Drugs, and Biologicals. 15e éd. Whitehouse Station, NJ: Merck Research Laboratories, 2020.
-Olmsted, John. « Efficiency and Yield in the Synthesis of Aspirin. » Journal of Chemical Education 75, n° 10 (1998): 1261.
-Smith, Michael B. March's Advanced Organic Chemistry: Reactions, Mechanisms, and Structure. 8e éd. Hoboken, NJ: Wiley, 2020.
-Vogel, Arthur Israel. Vogel's Textbook of Practical Organic Chemistry. 5e éd. Londres: Longman Scientific & Technical, 1989.
-Zubrick, James W. The Organic Chem Lab Survival Manual: A Student's Guide to Techniques. 9e éd. Hoboken, NJ: Wiley, 2014
-Variable contrôlée
-Comment elle a été contrôlée ?
-Pourquoi elle a été contrôlée?
-Volume des réactifs (réaction 1)
-Le même volume d’acide acétique et de pentanol (1 mL chacun) a été mesuré avec la même pipette graduée pour tous les essais.
-Assurer la même quantité de matière pour comparer correctement les résultats.
-Quantité de catalyseur
-Exactement 3 gouttes d’acide sulfurique ont été ajoutées dans chaque tube à essai et 1 mL dans chaque erlenmeyer.
-Une quantité différente modifierait la vitesse de réaction et la formation de l’ester.
-Masse d’acide salicylique (reaction 2)
-Environ 3,00 g ont été pesés avec la même balance pour chaque essai.
-Le rendement dépend du réactif limitant.
-Volume d’anhydride acétique (reaction 2)
-Le même volume (2,5 mL) a été utilisé pour chaque réaction.
-Garder la même stœchiométrie entre les réactifs.
-Conditions de chauffage
-La température a été surveillée avec le même thermomètre et maintenue à 60 °C ou 100 °C selon l’essai. Tous les mélanges ont été chauffés pendant 15 minutes avec le même minuteur.
-La température influence directement la vitesse et l’avancement de la réaction. Un temps différent changerait la quantité de produit formé.
-Méthode de filtration
-Le même type de papier filtre et la même technique ont été utilisés pour chaque essai.
-Assurer que les pertes de produit soient similaires entre les essais.
-Matériel
-Quantité
-Cylindre gradué (VWR® Graduated Cylinder TC 10 mL) (± 0,5 mL)
+The results obtained show that ester formation did indeed occur, as indicated by the fruity odor and the separation into two phases. The synthesis of aspirin also produced a white solid corresponding to acetylsalicylic acid, but yields exceeding 100% indicate the presence of impurities and incomplete drying of the product.
+
+Thus, the hypothesis is not refuted, but only partially confirmed: heat and the catalyst promoted product formation; however, the accuracy of the experimental yield was affected by experimental errors.
+
+Key features of the experiment:
+Systemic errors:
+Inaccurate volume measurements: Volumes were measured using a 1 mL pipette (± 0.05 mL), a 10 mL plastic graduated cylinder (± 0.5 mL), 50 mL beakers (± 2.5 mL), and an electronic balance (± 0.01 g). The limited accuracy introduced uncertainty in the actual quantities of reactants. These inaccuracies affected the calculated quantity of product and yield.
+Uncooled cooling bath: The solution was not cooled sufficiently, so the aspirin remained partially soluble, and the crystals that formed retained more water, increasing the mass.
+Presence of impurities in the reactions: For reaction 1, the organic phase still contained pentanol and possibly water or acetic acid. The product was therefore not pure. For reaction 2, the recovered crystals did not contain only pure acetylsalicylic acid. They retained water as well as other liquids (unreacted acetic acid or acetic anhydride). The measured mass therefore increased, resulting in a yield greater than 100%.
+Random errors:
+Product remaining in the separatory apparatus: In some trials of the first reaction, the ester was not completely recovered with the pipette.
+Crystals remaining stuck to the sides of the Erlenmeyer flask: In trial 2 of the second reaction, some of the aspirin was not transferred to the filter paper, which reduced the mass obtained. Accidental addition of distilled water before heating: In trial 1 of the second reaction, 10 mL of distilled water was added before heating. Therefore, the water diluted the reactants and shifted the chemical equilibrium towards the reactants, preventing the reaction from proceeding normally.
+NaCl not completely dissolved: The solution was less concentrated than expected. Some of the ester remained mixed with the aqueous phase, which reduced the amount of ester recovered.
+Experimental limitations:
+References:
+Atkins, Peter, and Loretta Jones. Principles of Chemistry. Paris: De Boeck Supérieur, 2005.
+Clayden, Jonathan, Nick Greeves, and Stuart Warren. Organic Chemistry. 2nd ed. Oxford: Oxford University Press, 2012.
+Journal of Chemical Education. “Common Pitfalls in the Undergraduate Aspirin Synthesis Lab.” » Journal of Chemical Education 89, No. 4 (2012): 512-515.
+Merck & Co. The Merck Index: An Encyclopedia of Chemicals, Drugs, and Biologicals. 15th ed. Whitehouse Station, NJ: Merck Research Laboratories, 2020.
+Olmsted, John. “Efficiency and Yield in the Synthesis of Aspirin. » Journal of Chemical Education 75, No. 10 (1998): 1261.
+Smith, Michael B. March's Advanced Organic Chemistry: Reactions, Mechanisms, and Structure. 8th ed. Hoboken, NJ: Wiley, 2020.
+Vogel, Arthur Israel. Vogel's Textbook of Practical Organic Chemistry. 5th ed. London: Longman Scientific & Technical, 1989.
+Zubrick, James W. The Organic Chem Lab Survival Manual: A Student's Guide to Techniques. 9th ed. Hoboken, NJ: Wiley, 2014
+Controlled Variable
+How was it controlled?
+Why was it controlled?
+Volume of Reagents (Reaction 1)
+The same volume of acetic acid and pentanol (1 mL each) was measured with the same graduated pipette for all trials.
+Ensuring the same amount of substance allowed for proper comparison of results.
+Amount of Catalyst
+Exactly 3 drops of sulfuric acid were added to each test tube and 1 mL to each Erlenmeyer flask.
+A different amount would alter the reaction rate and ester formation.
+Mass of Salicylic Acid (Reaction 2)
+Approximately 3.00 g were weighed with the same balance for each trial.
+
+The yield depends on the limiting reagent.
+
+Volume of acetic anhydride (reaction 2)
+The same volume (2.5 mL) was used for each reaction.
+Maintain the same stoichiometry between the reagents.
+Heating conditions
+The temperature was monitored with the same thermometer and maintained at 60 °C or 100 °C depending on the test. All mixtures were heated for 15 minutes using the same timer.
+Temperature directly influences the rate and extent of the reaction. A different heating time would change the amount of product formed.
+Filtration method
+The same type of filter paper and the same technique were used for each test.
+Ensure that product losses are similar between tests. Materials
+Quantity
+Graduated Cylinder (VWR® Graduated Cylinder TC 10 mL) (± 0.5 mL)
 1
-Bécher 500 mL (PYREX® Griffin Beaker 500 mL) (± 25 mL)
+500 mL Beaker (PYREX® Griffin Beaker 500 mL) (± 25 mL)
 1
-Plaque chauffante (VWR® Standard Hot Plate 120 V)
-1
-Thermomètre de laboratoire (VWR® Partial Immersion Thermometer -10 à 110 °C) (± 1 °C)
-1
-Pipette graduée 1 mL (Fisherbrand™ Graduated Pipette) (± 0,05 mL)
-3
-Tubes à essai 18×150 mm (PYREX® Borosilicate Test Tubes)
-3
-Chronométre
-1
-Bécher 50 mL (PYREX® Griffin Beaker 50 mL) (± 2,5 mL)
+Hot Plate (VWR® Standard Hot Plate 120 V)
+1 Laboratory Thermometer (VWR® Partial Immersion Thermometer -10 to 110 °C) (± 1 °C)
+1 Graduated Pipette (Fisherbrand™ Graduated Pipette) (± 0.05 mL)
+3 Test Tubes 18×150 mm (PYREX® Borosilicate Test Tubes)
+3 Stopwatch
+1 Beaker 50 mL (PYREX® Griffin Beaker 50 mL) (± 2.5 mL)
+6 Sample Bottles 20 mL (Fisherbrand™ Glass Sample Vials with Caps)
 6
-Flacons d’échantillon 20 mL (Fisherbrand™ Glass Sample Vials with Caps)
-6
-Balance (VWR Precision Top Loading Balance Scale SLW302)(± 0,01 g)
+Balance (VWR Precision Top Loading Balance Scale SLW302)(± 0.01 g)
 1
-Erlenmeyers 125 mL (PYREX® Erlenmeyer Flask 125 mL) (± 6 mL)
+Erlenmeyer flasks 125 mL (PYREX® Erlenmeyer Flask 125 mL) (± 6 mL)
 6
-Tige de verre agitatrice
+Stirring Glass Rod
 1
-Papier filtre
+Filter paper
 6
-Eau distillée
-200 mL
-Acide acétique (Ward’s Science Acetic Acid, Glacial, Laboratory Grade, 500 mL)
+Distilled water
+200mL
+Acetic acid (Ward’s Science Acetic Acid, Glacial, Laboratory Grade, 500 mL)
 6 mL
 Pentanol-1 (Ward’s Science 1-Pentanol, Laboratory Grade, 100 mL)
 6 mL
-Acide sulfurique concentré 18 M (Ward’s Science Sulfuric Acid, Laboratory Grade, 500 mL)
+Concentrated sulfuric acid 18 M (Ward’s Science Sulfuric Acid, Laboratory Grade, 500 mL)
 ~30 mL
-Acide salicylique (Ward’s Science Salicylic Acid Crystals, Laboratory Grade, 100 g)
+Salicylic Acid (Ward’s Science Salicylic Acid Crystals, Laboratory Grade, 100 g)
 18 g
-Anhydride acétique (Ward’s Science Acetic Anhydride, Laboratory Grade, 500 mL)
+Acetic Anhydride (Ward’s Science Acetic Anhydride, Laboratory Grade, 500 mL)
 15 mL
-Acide acétique glacial (Ward’s Science Glacial Acetic Acid, Laboratory Grade, 500 mL)
+Glacial Acetic Acid (Ward’s Science Glacial Acetic Acid, Laboratory Grade, 500 mL)
 18 mL
 Categories
 Description
-Sécurité
-Plusieurs substances utilisées dans cette expérience présentent des risques. L’acide sulfurique concentré (H₂SO₄) est hautement corrosif et peut provoquer de graves brûlures à la peau et aux yeux. L’anhydride acétique est irritant pour la peau, les yeux et les voies respiratoires et dégage des vapeurs piquantes. Le pentanol et l’acide acétique sont inflammables et possèdent des vapeurs irritantes. Pour réduire les risques, des lunettes de sécurité, un sarrau de laboratoire et des gants ont été portés en tout temps. Les produits chimiques ont été manipulés sous supervision et avec prudence.
-Environnement
-Les résidus de réaction contenant de l’acide acétique, du pentanol et de l’anhydride acétique n’ont pas été versés dans l’évier. Les solutions acides ont été récupérées dans le contenant de déchets chimiques prévus par l’école afin de limiter la contamination de l’eau. Les quantités utilisées étaient faibles, ce qui a permis de réduire l’impact environnemental global de l’expérience.
-Éthiques
-Cette expérience ne soulève pas de problème éthique particulier puisqu’aucun organisme vivant n’a été utilisé ni affecté. Aucun participant humain n’a été impliqué et aucune donnée personnelle n’a été collectée.
-Températures
-Réaction 1
+Safety
+Several substances used in this experiment present hazards. Concentrated sulfuric acid (H₂SO₄) is highly corrosive and can cause severe skin and eye burns. Acetic anhydride is irritating to the skin, eyes, and respiratory system and gives off stinging fumes. Pentanol and acetic acid are flammable and have irritating fumes. To reduce hazards, safety goggles, a lab coat, and gloves were worn at all times. The chemicals were handled under supervision and with care.
+
+Environment
+The reaction residues containing acetic acid, pentanol, and acetic anhydride were not poured down the sink. The acidic solutions were collected in the waste container. Chemicals were used as prescribed by the school to limit water contamination. The quantities used were small, which helped reduce the overall environmental impact of the experiment.
+
+Ethics
+This experiment does not raise any particular ethical concerns since no living organisms were used or affected. No human participants were involved, and no personal data was collected.
+
+Temperatures
+Reaction 1
 Photos
-60 º (± 1 °C)
-Au début, lorsque nous avons mélangé le pentanol avec l’acide acétique dans le tube à essai, les deux liquides étaient complétement incolores et transparents. En observant la mélange sous la lumière du laboratoire, on remarquait déjà deux phases distinctes à cause d’une différence de polarité. Une odeur forte d’alcool provenait du pentanol, tandis que l’acide acétique produisait une odeur piquante de vinaigre. Quand on a ajouté 3 gouttes d’acide sulfurique concentré, nous avons observé un léger dégagement de chaleur. Pendant quelques secondes, une légère coloration rosée-orange est apparue dans le mélange. Cette couleur a disparu rapidement et la solution est redevenue incolore. Après 5 minutes de chauffage, le mélange est devenu légèrement trouble. La lumière traverse moins facilement le liquide Au bout de quelques minutes supplémentaires, on a commencé à distinguer les deux couches : une couche supérieur claire et une couche inférieure plus aqueuse et légèrement plus dense. Après 15 minutes de chauffage, on a ajouté des gouttes d’une solution saturée de NaCl et la séparation des phases est devenue plus nette. Après la collection et déshydratation de la couche ester, un changement d’odeur a eu lieu, l’odeur de vinaigre a fortement diminué et a été remplacée par une odeur sucrée et fruitée, rappelant la banane. Toutefois, une légère odeur d’alcool restait.
-100 º (± 1 °C)
-Lorsque la réaction a été répétée à 100 °C, les changements ont été plus rapides. La formation des deux couches s’est produite plus rapidement et la couche supérieure était plus transparent que dans l’essai à 60 °C. L’odeur de vinaigre était presque complètement absente et l’odeur d’ester dominait.
-Températures
-Réaction 2
+60°C (± 1°C)
+Initially, when we mixed pentanol with acetic acid in the test tube, both liquids were completely colorless and transparent. Observing the mixture under the laboratory light, we could already see two distinct phases due to a difference in polarity. A strong alcohol odor came from the pentanol, while the acetic acid produced a pungent vinegar smell. When we added 3 drops of concentrated sulfuric acid, we observed a slight release of heat. For a few seconds, a slight pinkish-orange color appeared in the mixture. This color quickly disappeared, and the solution became colorless again. After 5 minutes of heating, the mixture became slightly cloudy. Light penetrates the liquid less easily. After a few more minutes, the two layers began to be distinguished: a clear upper layer and a lower, more aqueous and slightly denser layer. After 15 minutes of heating, drops of a saturated NaCl solution were added, and the phase separation became clearer. After the ester layer was collected and dehydrated, a change in odor occurred; the vinegar smell diminished significantly and was replaced by a sweet, fruity, banana-like odor. However, a slight alcohol odor remained.
+
+100 °C (± 1 °C)
+When the reaction was repeated at 100 °C, the changes were more rapid. The formation of the two layers occurred more rapidly, and the upper layer was more transparent than in the 60°C test. The vinegar odor was almost completely absent, and the ester odor dominated.
+
+Temperatures
+Reaction 2
 Images
-60º (± 1 °C)
-Au départ, l’acide salicylique était sous forme d’une poudre blanche cristalline fine, légèrement brillant sous la lumière du laboratoire.
-Après l’ajout de l’anhydride acétique, le solide ne s’est pas dissous immédiatement. Le mélange formait une suspension blanche trouble où l’on pouvait encore voir des particules solides en suspension qui fondaient lentement au fond de l’erlenmeyer lorsque l’agitation cessait. L’anhydride acétique dégageait une odeur très forte, piquante et irritante, semblable à du vinaigre chimique concentré, provoquant une légère irritation du nez et des yeux. Lorsque l’acide sulfurique concentré a été ajouté, une réaction immédiate a été observée. Le fond de l’erlenmeyer s’est légèrement réchauffé et une fumée blanche s’est formée. Durant le chauffage, la solution est progressivement devenue plus claire. En agitant doucement avec la tige de verre, les cristaux d’acide salicylique ont commencé à disparaître.
-Après environ 1 à 2 minutes, la solution est devenue complètement transparente et incolore. Lorsque l’eau distillée froide a été ajoutée après le chauffage, un changement immédiat et très visible s’est produit. La solution est devenue opaque et blanchâtre presque instantanément. Le mélange a dégagé une légère chaleur. Après quelques secondes, de très fines particules blanches sont apparues et la solution a pris un aspect trouble. Environ une minute plus tard, des cristaux blancs visibles ont commencé à se former au fond du récipient. Contrairement à la réaction 1, aucune odeur fruitée n’a été détectée. Une fois les cristaux filtrés et partiellement séchés, le solide obtenu ne dégageait presque aucune odeur.
-100 º (± 1 °C)
-À 100 °C, la cristallisation s’est produite presque immédiatement après l’ajout d’eau froide. Un précipité blanc abondant s’est formé rapidement et les cristaux obtenus étaient plus gros et plus visibles que lors de l’essai à plus basse température.
-Essai 1
-(± 0,01 g)
-Essai 2
-(± 0,01 g)
-Essai 3
-(± 0,01 g)
-Moyenne
-60 º
-3,851 g
-3,601 g
-3,497 g
-3,6497 g
-100 º
-4,564 g
-4,074 g
-4,379 g
-4,339 g
-Essai 1 (60 ºC)
-Essai 2 (60 ºC)
-Essai 3 (60 ºC)
-Essai 1 (100 ºC)
-Essai 2 (100 ºC)
-Essai 3 (100 ºC)
+60°C (± 1°C)
+Initially, salicylic acid was a fine, white, crystalline powder, slightly shiny under laboratory light.
+After the addition of acetic anhydride, the solid did not dissolve immediately. The mixture formed a cloudy white suspension in which suspended solid particles could still be seen, slowly settling to the bottom of the Erlenmeyer flask when stirring ceased. The acetic anhydride gave off a very strong, pungent, and irritating odor, similar to concentrated chemical vinegar, causing slight irritation of the nose and eyes. When concentrated sulfuric acid was added, an immediate reaction was observed. The bottom of the Erlenmeyer flask warmed slightly, and white smoke formed. During heating, the solution gradually became clearer. By gently stirring with the glass rod, the salicylic acid crystals began to disappear.
+After about 1 to 2 minutes, the solution became completely transparent and colorless. When cold distilled water was added after heating, an immediate and very noticeable change occurred. The solution became opaque and whitish almost instantly. The mixture gave off a slight heat. After a few seconds, very fine white particles appeared, and the solution became cloudy. About a minute later, visible white crystals began to form at the bottom of the container. Unlike reaction 1, no fruity odor was detected. Once the crystals were filtered and partially dried, the resulting solid had almost no odor.
+
+100 °C (± 1 °C)
+At 100 °C, crystallization occurred almost immediately after the addition of cold water. An abundant white precipitate formed rapidly, and the resulting crystals were larger and more visible than those obtained in the lower-temperature test.
+
+Trial 1
+(±0.01g)
+Test 2
+(±0.01g)
+Trial 3
+(±0.01g)
+Average
+60º
+3.851g
+3.601g
+3.497g
+3.6497g
+100º
+4.564g
+4.074g
+4.379g
+4.339g
+Test 1 (60ºC)
+Test 2 (60ºC)
+Test 3 (60ºC)
+Test 1 (100ºC)
+Test 2 (100ºC)
+Test 3 (100ºC)
 xᵢ (g)
 xᵢ- x̄
 (xᵢ - x̄)²
 4,564
-+0,225
-0,05063
++0.225
+0.05063
 4,074
-−0,265
-0,07023
+−0.265
+0.07023
 4,379
-+0,040
-0,00160
-Somme
-0,12245
++0.040
+0.00160
+Sum
+0.12245
 xᵢ (g)
 xᵢ - x̄
 (xᵢ - x̄)²
 3,851
-+0,2013
-0,0405
++0.2013
+0.0405
 3,601
-−0,0487
-0,00237
+−0.0487
+0.00237
 3,497
-−0,1527
-0,02331
-Somme
-0,06621
-s = √(0,06621 / 2) = 0,182 g
-s = √(0,12245 / 2) = 0,247 g
-Forces :
-Explication :
-Présence d’une odeur de fruitée lors de la réaction 1
-L’odeur de banane a indiqué qualitativement la formation d’un ester, (Acétate de Pentyle), ce qui confirme que l’estérification s’est produite entre l’acide acétique et le pentanol pour les 3 essaies à 60º et à 100º.
-Formation de deux couches lors de la décantation dans la réaction 1
-La formation d’une phase aqueuse et une phase organique montre une différence de densité entre les substances, ce qui démontre que le composé organique a été synthétisé.
-Formations de cristaux blancs d’aspirine dans la réaction 2.
-La précipitation d’un solide blanc après avoir refroidi indique qu’il y’a eu la formation de l’acide acétylsalicylique, qui est peu soluble dans l’eau froide
-Les méthodes de séparation adaptées aux deux réactions
-Dans la réaction 1, l’ester liquide a été récupéré à la pipette après lavage au NaCl, puis séché avec Na2SO4 Dans la réaction 2, l’aspirine solide a été mis dans un bain glacé puis récupérée avec le papier filtre. Les deux techniques ont permis d’isoler efficacement. les produis
+−0.1527
+0.02331
+Sum
+0.06621
+s = √(0.06621 / 2) = 0.182 g
+s = √(0.12245 / 2) = 0.247 g
+Forces:
+Explanation:
+Presence of a fruity odor during reaction 1. The banana odor qualitatively indicated the formation of an ester (pentyl acetate), confirming that esterification occurred between acetic acid and pentanol in all three trials at 60°C and 100°C.
+
+Formation of two layers during decantation in reaction 1.
+The formation of an aqueous phase and an organic phase shows a difference in density between the substances, demonstrating that the organic compound was synthesized. Formation of white aspirin crystals in reaction 2.
+The precipitation of a white solid after cooling indicates the formation of acetylsalicylic acid, which is sparingly soluble in cold water.
+Separation methods suitable for the two reactions:
+In reaction 1, the liquid ester was collected with a pipette after washing with NaCl, then dried with Na2SO4. In reaction 2, the solid aspirin was placed in an ice bath and then collected with filter paper. Both techniques effectively isolated the products.
+
 Limitations
-Signification
-Améliorations
-Température du bain-marie instable
-La réaction ne se faisait pas toujours à la même vitesse et les résultats variaient entre les essais.
-Utiliser un bain-marie contrôlé au lieu d’une plaque chauffante.
-Séchage incomplet des cristaux d’aspirine
-L’eau et les liquides restés dans les cristaux ont augmenté la masse mesurée.
-Laisser sécher plus longtemps ou utiliser un dessiccateur/étuve.
-Mesures de volume imprécises
-Les quantités de réactifs n’étaient pas exactes, ce qui affecte le rendement.
-Utiliser des pipettes volumétriques plus précises.
-Pertes lors des transferts et filtrations
-Une partie du produit est restée dans le bécher ou sur le papier filtre.
-Rincer le bécher et le filtre avec un peu d’eau froide.
-Refroidissement insuffisant lors de la cristallisation
-L’aspirine est partiellement soluble dans l’eau tiède, donc une partie du produit est restée dissoute et n’a pas cristallisé.
-Refroidir dans un bain de glace (0-5 °C) pendant plusieurs minutes avant la filtration.
+Significance
+Improvements
+Unstable water bath temperature
+The reaction did not always proceed at the same rate, and the results varied between trials.
+Use a controlled water bath instead of a hot plate.
+
+Incomplete drying of aspirin crystals
+Water and liquids remaining in the crystals increased the measured mass. Allow to dry longer or use a desiccator/oven.
+Inaccurate volume measurements
+The quantities of reagents were not exact, which affects the yield.
+Use more precise volumetric pipettes.
+Losses during transfers and filtrations
+Some of the product remained in the beaker or on the filter paper.
+Rinse the beaker and filter with a little cold water.
+Insufficient cooling during crystallization
+Aspirin is partially soluble in warm water, so some of the product remained dissolved and did not crystallize.
+Cool in an ice bath (0-5 °C) for several minutes before filtration.

@@ -1,25 +1,22 @@
-Laboratoire 1: Synthese de l'Ester (Esterification)
+Lab 1: Ester Synthesis (Esterification)
 SCH4U
-Enseignant(e)
-Vendredi 27 Fevrier 2026
-Ecole secondaire (anonymisee)
+Instructor
+Friday, February 27, 2026
+Secondary School (anonymized)
 
-Auteurs:
-- Etudiant A
-- Etudiant B
-- Etudiant C
+Authors:
+- Student A
+- Student B
+- Student C
 
-Question de Recherche:
-Comment la presence de chaleur et d'un catalyseur acide influence le produit d'une reaction d'esterification?
+Research Question: How does the presence of heat and an acid catalyst influence the product of an esterification reaction?
 
-Introduction (extrait):
-La formation d'esters est une transformation chimique importante. Une reaction d'esterification entre un acide carboxylique et un alcool produit un ester et de l'eau.
+Introduction (excerpt): The formation of esters is an important chemical transformation. An esterification reaction between a carboxylic acid and an alcohol produces an ester and water.
 
 Reaction 1:
-Acide acetique + pentanol -> acetate de pentyle + eau
+Acetic acid + pentanol -> pentyl acetate + water
 
 Reaction 2:
-Acide salicylique + anhydride acetique -> acide acetylsalicylique (aspirine) + acide acetique
+Salicylic acid + acetic anhydride -> acetylsalicylic acid (aspirin) + acetic acid
 
-Conclusion (resume):
-La formation de l'ester a bien eu lieu (odeur fruitee observee). La synthese de l'aspirine a produit un solide blanc, mais certains rendements superieurs a 100 % indiquent des impuretes et un sechage incomplet.
+Conclusion (summary): The ester was formed successfully (fruity odor observed). The synthesis of aspirin produced a white solid, but some yields exceeding 100% indicate impurities and incomplete drying.
