@@ -1,13 +1,13 @@
 Laboratoire 1: Synthese de l'Ester (Esterification)
 SCH4U
-M. Diallo
+Enseignant(e)
 Vendredi 27 Fevrier 2026
-Ecole Secondaire Gaetan-Gervais
+Ecole secondaire (anonymisee)
 
 Auteurs:
-- Ali Abu Hantash
-- Matthew Bolletta
-- Zachary Balaisis
+- Etudiant A
+- Etudiant B
+- Etudiant C
 
 Question de Recherche:
 Comment la presence de chaleur et d'un catalyseur acide influence le produit d'une reaction d'esterification?
