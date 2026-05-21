@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>jsonparser Interactive Demo</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>jsonparser Interactive Demo</h1>
+    <p>Real document content transformed into structured JSON. Static, fast, and cheap to host.</p>
+  </header>
+
+  <main class="layout">
+    <section class="card">
+      <div class="card-head">
+        <h2>Source Document</h2>
+        <span class="badge">Real sample</span>
+      </div>
+      <p class="hint">If you add a file at <code>assets/source.pdf</code>, this pane can link to the PDF directly.</p>
+      <a class="pdf-link" href="assets/source.pdf" target="_blank" rel="noopener">Open PDF (if present)</a>
+      <pre id="sourceText" class="source"></pre>
+    </section>
+
+    <section class="card">
+      <div class="card-head">
+        <h2>Extracted JSON</h2>
+        <div class="actions">
+          <button id="rawBtn" class="btn">Raw</button>
+          <button id="simpleBtn" class="btn alt">Simplified</button>
+          <button id="copyBtn" class="btn ghost">Copy</button>
+        </div>
+      </div>
+      <pre id="jsonOut" class="json"></pre>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <small>Built for Product Hunt demo link: static hosting only (GitHub Pages / Netlify / Vercel).</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

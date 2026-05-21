@@ -1,0 +1,43 @@
+{
+  "document_title": "Laboratoire 1: Synthese de l'Ester (Esterification)",
+  "course": "SCH4U",
+  "teacher": "M. Diallo",
+  "date": "2026-02-27",
+  "institution": "Ecole Secondaire Gaetan-Gervais",
+  "language": "fr",
+  "authors": [
+    "Ali Abu Hantash",
+    "Matthew Bolletta",
+    "Zachary Balaisis"
+  ],
+  "research_question": "Comment la presence de chaleur et d'un catalyseur acide influence le produit d'une reaction d'esterification?",
+  "reactions": [
+    {
+      "name": "Esterification",
+      "equation": "Acide acetique + pentanol -> acetate de pentyle + eau",
+      "products": ["acetate de pentyle", "eau"],
+      "observation": "odeur fruitee"
+    },
+    {
+      "name": "Acetylation",
+      "equation": "Acide salicylique + anhydride acetique -> acide acetylsalicylique + acide acetique",
+      "products": ["acide acetylsalicylique", "acide acetique"],
+      "observation": "solide blanc apres filtration"
+    }
+  ],
+  "key_reagents": [
+    "acide sulfurique",
+    "acide acetique",
+    "pentanol",
+    "acide salicylique",
+    "anhydride acetique"
+  ],
+  "metrics": {
+    "molar_mass_aspirin_g_per_mol": 180.17,
+    "molar_mass_salicylic_acid_g_per_mol": 138.13,
+    "limiting_reagent_moles": 0.0217,
+    "theoretical_aspirin_mass_g": 3.909
+  },
+  "conclusion": "La chaleur et le catalyseur ont favorise la formation du produit, mais la precision du rendement a ete affectee par des erreurs experimentales.",
+  "trust_note": "Fields extracted from real source content in test_unzipped/document.md"
+}
