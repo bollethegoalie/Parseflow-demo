@@ -15,6 +15,13 @@ python3 -m http.server 8000
 ```
 Open `http://localhost:8000`
 
+If port 8000 is already in use:
+```bash
+cd producthunt-demo
+python3 -m http.server 8080
+```
+Open `http://localhost:8080`
+
 ## Add your PDF (optional)
 1. Place your file at `assets/source.pdf`
 2. Refresh the demo
