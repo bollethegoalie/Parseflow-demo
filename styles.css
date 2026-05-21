@@ -13,6 +13,14 @@ body {
   background: radial-gradient(circle at 20% 0%, #eff6ff 0%, var(--bg) 40%);
   color: var(--ink);
 }
+.top-banner {
+  background: #0f172a;
+  color: #e2e8f0;
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 10px 16px;
+  letter-spacing: 0.01em;
+}
 .hero {
   max-width: 1100px;
   margin: 0 auto;
@@ -21,7 +29,7 @@ body {
 .hero h1 { margin: 0 0 8px; font-size: 2.2rem; }
 .hero p { margin: 0; color: var(--muted); }
 .mode-picker { margin-top: 12px; display: flex; gap: 8px; }
-.hero-note { display: inline-block; margin-top: 8px; color: var(--muted); }
+.hero-note { display: inline-block; margin-top: 8px; color: var(--muted); margin-right: 12px; }
 .layout {
   max-width: 1100px;
   margin: 16px auto 24px;
@@ -81,6 +89,7 @@ pre {
   padding: 12px;
   height: 430px;
   overflow: auto;
+  line-height: 1.45;
 }
 .source { background: #fcfcfd; }
 .json { background: #0f172a; color: #e2e8f0; }

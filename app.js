@@ -5,6 +5,7 @@ const simpleBtn = document.getElementById('simpleBtn');
 const copyBtn = document.getElementById('copyBtn');
 const excerptModeBtn = document.getElementById('excerptModeBtn');
 const fullModeBtn = document.getElementById('fullModeBtn');
+const modeMeta = document.getElementById('modeMeta');
 const pdfLink = document.getElementById('pdfLink');
 const pdfStatus = document.getElementById('pdfStatus');
 
@@ -13,10 +14,12 @@ let activeMode = 'excerpt';
 
 const MODES = {
   excerpt: {
+    label: 'Excerpt mode: short source preview with concise extraction output.',
     sourcePath: 'data/source_excerpt.md',
     jsonPath: 'data/extracted.json'
   },
   full: {
+    label: 'Full mode: long anonymized source with expanded extraction schema.',
     sourcePath: 'data/source_full.md',
     jsonPath: 'data/extracted_full.json'
   }
@@ -25,16 +28,23 @@ const MODES = {
 function simplify(data) {
   const authors = Array.isArray(data.authors) ? data.authors : [];
   const reactions = Array.isArray(data.reactions) ? data.reactions : [];
+  const variables = data.variables || {};
+  const conclusion = typeof data.conclusion === 'object'
+    ? data.conclusion.summary
+    : data.conclusion;
   return {
     document_title: data.document_title,
+    document_type: data.document_type,
     language: data.language,
     authors_count: authors.length,
     authors_preview: authors.slice(0, 3),
     research_question: data.research_question,
     experiment_summary: {
       reactions_count: reactions.length,
-      key_reagents: data.key_reagents,
-      core_conclusion: data.conclusion
+      key_reagents: data.key_reagents || reactions.flatMap((r) => r.reagents || []),
+      independent_variables: variables.independent || [],
+      dependent_variables: variables.dependent || [],
+      core_conclusion: conclusion
     },
     metrics: data.metrics
   };
@@ -44,7 +54,7 @@ async function checkPdfAvailability() {
   try {
     const res = await fetch('assets/source.pdf', { method: 'HEAD' });
     if (res.ok) {
-      pdfStatus.textContent = 'PDF detected: click Open PDF to view the original sample.';
+      pdfStatus.textContent = 'PDF detected: click Open source PDF to view the owner-provided sample.';
       return;
     }
   } catch (_err) {
@@ -54,11 +64,12 @@ async function checkPdfAvailability() {
   pdfLink.setAttribute('aria-disabled', 'true');
   pdfLink.style.pointerEvents = 'none';
   pdfLink.style.opacity = '0.55';
-  pdfStatus.textContent = 'No PDF found yet at assets/source.pdf. Upload one to enable this link.';
+  pdfStatus.textContent = 'No PDF found at assets/source.pdf. You can keep this hidden, or add a static sample PDF.';
 }
 
 async function loadDemo() {
   const selected = MODES[activeMode];
+  modeMeta.textContent = selected.label;
   const sourceRes = await fetch(selected.sourcePath);
   sourceText.textContent = await sourceRes.text();
 

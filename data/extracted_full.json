@@ -6,15 +6,30 @@
     "course": "SCH4U",
     "teacher": "Enseignant(e)",
     "date": "2026-02-27",
-    "institution": "Ecole secondaire anonymisee"
+    "institution": "Ecole secondaire anonymisee",
+    "school_board": "Conseil scolaire anonymise"
   },
   "authors": [
     "Etudiant A",
     "Etudiant B",
     "Etudiant C"
   ],
+  "sections_detected": [
+    "question_de_recherche",
+    "introduction",
+    "hypothese",
+    "variables",
+    "materiel",
+    "methode",
+    "observations",
+    "analyse",
+    "conclusion",
+    "erreurs",
+    "bibliographie"
+  ],
   "research_question": "Comment la presence de chaleur et d'un catalyseur acide influence le produit d'une reaction d'esterification?",
   "hypothesis": "Si la temperature augmente et que l'acide sulfurique est present comme catalyseur, alors l'equilibre favorisera la formation de l'ester.",
+  "objective": "Produire deux esters via esterification et acetylation, identifier qualitativement l'ester de reaction 1 et estimer quantitativement le rendement d'aspirine de reaction 2.",
   "reactions": [
     {
       "id": "reaction_1",
@@ -29,7 +44,9 @@
       },
       "qualitative_observations": [
         "odeur fruitee observee",
-        "separation en deux phases"
+        "separation en deux phases",
+        "transition odeur vinaigre vers note type banane",
+        "separation plus nette apres ajout NaCl"
       ]
     },
     {
@@ -47,15 +64,44 @@
         "molar_mass_aspirin_g_per_mol": 180.17,
         "molar_mass_salicylic_acid_g_per_mol": 138.13,
         "limiting_reagent_moles": 0.0217,
-        "theoretical_aspirin_mass_g": 3.909
+        "theoretical_aspirin_mass_g": 3.909,
+        "mass_trials_60c_g": [3.851, 3.601, 3.497],
+        "mass_trials_100c_g": [4.564, 4.074, 4.379],
+        "mean_60c_g": 3.6497,
+        "mean_100c_g": 4.339,
+        "stddev_60c_g": 0.182,
+        "stddev_100c_g": 0.247
       }
     }
   ],
+  "temperature_observations": {
+    "reaction_1_60c": "Deux phases visibles, odeur fruitee presente avec odeur alcool residuelle.",
+    "reaction_1_100c": "Transitions plus rapides, separation plus nette, odeur d'ester dominante.",
+    "reaction_2_60c": "Cristallisation apres ajout d'eau froide, formation progressive de precipite blanc.",
+    "reaction_2_100c": "Cristallisation plus rapide et cristaux plus visibles/apparents."
+  },
   "variables": {
     "independent": ["temperature", "presence_of_acid_catalyst"],
     "dependent": ["formation_of_ester", "mass_of_aspirin", "yield"],
-    "controlled_examples": ["reactant volumes", "reaction time", "bath setup"]
+    "controlled_examples": ["reactant volumes", "reaction time", "bath setup", "filtration method", "same balance and pipettes"]
   },
+  "controlled_variables_table": [
+    {
+      "variable": "volume_reactifs_reaction_1",
+      "control_method": "1 mL acide acetique + 1 mL pentanol dans chaque essai",
+      "reason": "Maintenir la meme quantite de matiere"
+    },
+    {
+      "variable": "quantite_catalyseur",
+      "control_method": "3 gouttes H2SO4 (reaction 1) et 1 mL (reaction 2)",
+      "reason": "Eviter variation de vitesse de reaction"
+    },
+    {
+      "variable": "temperature_et_temps",
+      "control_method": "60 C ou 100 C pendant 15 minutes",
+      "reason": "Comparer effet thermique de facon cohérente"
+    }
+  ],
   "procedure_summary": {
     "reaction_1_steps_count_estimate": 20,
     "reaction_2_steps_count_estimate": 26,
@@ -66,17 +112,68 @@
       "observe and separate products",
       "filter and dry solids",
       "measure final mass"
+    ],
+    "safety_actions": [
+      "wear goggles lab coat gloves",
+      "handle sulfuric acid under supervision",
+      "dispose acidic and organic waste in chemical waste containers"
+    ]
+  },
+  "materials_summary": {
+    "glassware": [
+      "becher 500 mL",
+      "becher 50 mL",
+      "erlenmeyer 125 mL",
+      "test tubes",
+      "sample vials"
+    ],
+    "measurement_tools": [
+      "thermometer",
+      "graduated pipette 1 mL",
+      "graduated cylinder 10 mL",
+      "balance"
+    ],
+    "chemicals": [
+      "acide acetique",
+      "pentanol-1",
+      "acide sulfurique concentre",
+      "acide salicylique",
+      "anhydride acetique",
+      "acide acetique glacial",
+      "eau distillee"
+    ]
+  },
+  "risk_assessment": {
+    "safety": [
+      "H2SO4 corrosif pour peau et yeux",
+      "anhydride acetique irritant voies respiratoires",
+      "pentanol et acide acetique inflammables"
+    ],
+    "environment": [
+      "dechets chimiques non verses a l'evier",
+      "collecte en contenant dedie"
+    ],
+    "ethics": [
+      "aucun participant humain",
+      "aucun organisme vivant utilise"
     ]
   },
   "error_analysis": {
     "systematic_errors": [
       "imprecise volume tools",
       "cooling bath not cold enough",
-      "impurities retained in final solid"
+      "impurities retained in final solid",
+      "temperature instability from improvised heating setup"
     ],
     "random_errors": [
       "material loss during transfer",
-      "crystals remaining on vessel walls"
+      "crystals remaining on vessel walls",
+      "accidental process-order deviation in one trial"
+    ],
+    "limitations": [
+      "some yields above 100 percent imply moisture/impurity retention",
+      "incomplete drying can bias final mass",
+      "bath control hardware constraints affected reproducibility"
     ]
   },
   "conclusion": {
@@ -87,9 +184,19 @@
       "some aspirin yield values above 100 percent indicate impurity or incomplete drying"
     ]
   },
+  "bibliography": [
+    "Atkins and Jones, Principes de chimie, 2005",
+    "Clayden, Greeves, Warren, Organic Chemistry, 2012",
+    "Journal of Chemical Education, 2012, aspirin lab pitfalls",
+    "Merck Index, 2020",
+    "Olmsted, Journal of Chemical Education, 1998",
+    "Vogel, Practical Organic Chemistry, 1989",
+    "Zubrick, Organic Chem Lab Survival Manual, 2014"
+  ],
   "demo_mode": {
     "is_live_extraction": false,
-    "description": "This page shows a preprocessed extraction snapshot for demonstration.",
-    "source_file_displayed": "data/source_full.md"
+    "description": "This page shows a preprocessed extraction snapshot for demonstration. Viewers do not upload documents in this demo.",
+    "source_file_displayed": "data/source_full.md",
+    "expected_behavior": "Switching source files in this static demo requires updating the paired JSON snapshot."
   }
 }

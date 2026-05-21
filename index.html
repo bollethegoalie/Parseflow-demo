@@ -7,7 +7,11 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <!-- Edit this banner text in index.html to change the top notice -->
+  <div class="top-banner">Demo context: School chemistry report (French) • anonymized • preprocessed output</div>
+
   <header class="hero">
+    <!-- Edit the heading/subheading below for your Product Hunt messaging -->
     <h1>jsonparser Interactive Demo</h1>
     <p>Real source content transformed into structured JSON. Lightweight static deployment, no backend required.</p>
     <div class="mode-picker" role="group" aria-label="demo mode">
@@ -15,6 +19,7 @@
       <button id="fullModeBtn" class="btn alt">Full anonymized report</button>
     </div>
     <small class="hero-note">Preprocessed showcase: viewers cannot upload files on this page.</small>
+    <small id="modeMeta" class="hero-note"></small>
   </header>
 
   <main class="layout">
@@ -24,8 +29,8 @@
         <span class="badge">Real sample</span>
       </div>
       <p class="hint">This demo uses curated source data and a precomputed extraction output.</p>
-      <a id="pdfLink" class="pdf-link" href="assets/source.pdf" target="_blank" rel="noopener">Open source PDF (optional sample asset)</a>
-      <small id="pdfStatus" class="hint">No user upload is available in this demo.</small>
+      <a id="pdfLink" class="pdf-link" href="assets/source.pdf" target="_blank" rel="noopener">Open source PDF (owner-provided optional asset)</a>
+      <small id="pdfStatus" class="hint">No user upload is available in this demo. This page is read-only for viewers.</small>
       <pre id="sourceText" class="source"></pre>
     </section>
 

@@ -31,7 +31,7 @@ Open `http://localhost:8080`
 
 ### Option A: Netlify (recommended if GitHub Pages is already tied to main site)
 1. Go to Netlify: `Add new site` -> `Import an existing project`
-2. Select repo: `bollethegoalie/jsonparser-producthunt-demo`
+2. Select repo: `bollethegoalie/Parseflow-demo`
 3. Build command: leave empty
 4. Publish directory: `.`
 5. Deploy
@@ -39,7 +39,7 @@ Open `http://localhost:8080`
 You get an instant URL like: `https://<site>.netlify.app`
 
 ### Option B: Vercel
-1. Import repo `jsonparser-producthunt-demo`
+1. Import repo `Parseflow-demo`
 2. Framework preset: `Other`
 3. Build command: empty
 4. Output directory: empty
@@ -54,6 +54,9 @@ You get URL like: `https://jsonparser-producthunt-demo.vercel.app`
 4. Save and wait 1-2 minutes
 
 Expected URL: `https://bollethegoalie.github.io/jsonparser-producthunt-demo/`
+
+If your repository name is `Parseflow-demo`, expected URL is:
+`https://bollethegoalie.github.io/Parseflow-demo/`
 
 ## Why you might not see a Pages link yet
 - Pages not enabled on this repo yet
@@ -92,3 +95,11 @@ Paste your final public demo URL into Product Hunt's "Link to the demo" field.
 - `app.js`: raw/simplified/copy behavior
 - `data/source_excerpt.md`: source sample
 - `data/extracted.json`: parsed output sample
+
+## Where to edit content quickly
+- Top banner text: edit the `<div class="top-banner">...</div>` in `index.html`
+- Main title/subtitle: edit `<h1>` and the paragraph right below it in `index.html`
+- Excerpt source: `data/source_excerpt.md`
+- Excerpt JSON: `data/extracted.json`
+- Full source: `data/source_full.md`
+- Full JSON extraction: `data/extracted_full.json`
