@@ -10,6 +10,11 @@
   <header class="hero">
     <h1>jsonparser Interactive Demo</h1>
     <p>Real source content transformed into structured JSON. Lightweight static deployment, no backend required.</p>
+    <div class="mode-picker" role="group" aria-label="demo mode">
+      <button id="excerptModeBtn" class="btn">Excerpt</button>
+      <button id="fullModeBtn" class="btn alt">Full anonymized report</button>
+    </div>
+    <small class="hero-note">Preprocessed showcase: viewers cannot upload files on this page.</small>
   </header>
 
   <main class="layout">
@@ -18,9 +23,9 @@
         <h2>Source Document</h2>
         <span class="badge">Real sample</span>
       </div>
-      <p class="hint">Add your file at <code>assets/source.pdf</code> to enable direct PDF viewing.</p>
-      <a id="pdfLink" class="pdf-link" href="assets/source.pdf" target="_blank" rel="noopener">Open PDF</a>
-      <small id="pdfStatus" class="hint"></small>
+      <p class="hint">This demo uses curated source data and a precomputed extraction output.</p>
+      <a id="pdfLink" class="pdf-link" href="assets/source.pdf" target="_blank" rel="noopener">Open source PDF (optional sample asset)</a>
+      <small id="pdfStatus" class="hint">No user upload is available in this demo.</small>
       <pre id="sourceText" class="source"></pre>
     </section>
 

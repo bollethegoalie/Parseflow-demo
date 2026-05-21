@@ -1,0 +1,95 @@
+{
+  "document_title": "Laboratoire 1: Synthese de l'Ester (Esterification)",
+  "document_type": "school_lab_report",
+  "language": "fr",
+  "metadata": {
+    "course": "SCH4U",
+    "teacher": "Enseignant(e)",
+    "date": "2026-02-27",
+    "institution": "Ecole secondaire anonymisee"
+  },
+  "authors": [
+    "Etudiant A",
+    "Etudiant B",
+    "Etudiant C"
+  ],
+  "research_question": "Comment la presence de chaleur et d'un catalyseur acide influence le produit d'une reaction d'esterification?",
+  "hypothesis": "Si la temperature augmente et que l'acide sulfurique est present comme catalyseur, alors l'equilibre favorisera la formation de l'ester.",
+  "reactions": [
+    {
+      "id": "reaction_1",
+      "name": "Esterification",
+      "equation_text": "Acide acetique + pentanol -> Acetate de pentyle + Eau",
+      "reagents": ["acide acetique", "pentanol", "acide sulfurique"],
+      "products": ["acetate de pentyle", "eau"],
+      "measurements": {
+        "temperature_c": [60, 100],
+        "duration_minutes": 15,
+        "observation_type": "qualitative"
+      },
+      "qualitative_observations": [
+        "odeur fruitee observee",
+        "separation en deux phases"
+      ]
+    },
+    {
+      "id": "reaction_2",
+      "name": "Acetylation (aspirine)",
+      "equation_text": "Acide salicylique + Anhydride acetique -> Acide acetylsalicylique + Acide acetique",
+      "reagents": ["acide salicylique", "anhydride acetique", "acide sulfurique"],
+      "products": ["acide acetylsalicylique", "acide acetique"],
+      "measurements": {
+        "temperature_c": [60, 100],
+        "duration_minutes": 15,
+        "observation_type": "qualitative_and_quantitative"
+      },
+      "quantitative_results": {
+        "molar_mass_aspirin_g_per_mol": 180.17,
+        "molar_mass_salicylic_acid_g_per_mol": 138.13,
+        "limiting_reagent_moles": 0.0217,
+        "theoretical_aspirin_mass_g": 3.909
+      }
+    }
+  ],
+  "variables": {
+    "independent": ["temperature", "presence_of_acid_catalyst"],
+    "dependent": ["formation_of_ester", "mass_of_aspirin", "yield"],
+    "controlled_examples": ["reactant volumes", "reaction time", "bath setup"]
+  },
+  "procedure_summary": {
+    "reaction_1_steps_count_estimate": 20,
+    "reaction_2_steps_count_estimate": 26,
+    "core_workflow": [
+      "prepare water bath",
+      "mix reagents",
+      "heat for fixed time",
+      "observe and separate products",
+      "filter and dry solids",
+      "measure final mass"
+    ]
+  },
+  "error_analysis": {
+    "systematic_errors": [
+      "imprecise volume tools",
+      "cooling bath not cold enough",
+      "impurities retained in final solid"
+    ],
+    "random_errors": [
+      "material loss during transfer",
+      "crystals remaining on vessel walls"
+    ]
+  },
+  "conclusion": {
+    "status": "partially_confirmed",
+    "summary": "Heat and catalyst supported product formation, but yield precision was impacted by experimental limitations.",
+    "notes": [
+      "fruit odor supports ester formation",
+      "some aspirin yield values above 100 percent indicate impurity or incomplete drying"
+    ]
+  },
+  "demo_mode": {
+    "is_live_extraction": false,
+    "description": "This page shows a preprocessed extraction snapshot for demonstration.",
+    "source_file_displayed": "data/source_full.md"
+  }
+}

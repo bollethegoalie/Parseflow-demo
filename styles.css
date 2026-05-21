@@ -20,6 +20,8 @@ body {
 }
 .hero h1 { margin: 0 0 8px; font-size: 2.2rem; }
 .hero p { margin: 0; color: var(--muted); }
+.mode-picker { margin-top: 12px; display: flex; gap: 8px; }
+.hero-note { display: inline-block; margin-top: 8px; color: var(--muted); }
 .layout {
   max-width: 1100px;
   margin: 16px auto 24px;
