@@ -1,36 +1,46 @@
 {
-  "document_title": "Laboratoire 1: Synthese de l'Ester (Esterification)",
-  "course": "SCH4U",
-  "teacher": "Enseignant(e)",
-  "date": "2026-02-27",
-  "institution": "Ecole secondaire (anonymisee)",
-  "language": "fr",
+  "document_title": "Lab 1: Ester Synthesis (Esterification)",
+  "document_type": "school_lab_report",
+  "language": "en",
+  "metadata": {
+    "course": "SCH4U",
+    "date": "2026-02-27",
+    "institution": "Secondary School (anonymized)",
+    "instructor": "Instructor"
+  },
   "authors": [
-    "Etudiant A",
-    "Etudiant B",
-    "Etudiant C"
+    "Student A",
+    "Student B",
+    "Student C"
   ],
-  "research_question": "Comment la presence de chaleur et d'un catalyseur acide influence le produit d'une reaction d'esterification?",
+  "research_question": "How does the presence of heat and an acid catalyst influence the product of an esterification reaction?",
+  "introduction_excerpt": "The formation of esters is an important chemical transformation. An esterification reaction between a carboxylic acid and an alcohol produces an ester and water.",
   "reactions": [
     {
-      "name": "Esterification",
-      "equation": "Acide acetique + pentanol -> acetate de pentyle + eau",
-      "products": ["acetate de pentyle", "eau"],
-      "observation": "odeur fruitee"
+      "name": "Reaction 1 (esterification)",
+      "equation": "Acetic acid + pentanol -> pentyl acetate + water",
+      "products": [
+        "pentyl acetate",
+        "water"
+      ],
+      "observation": "Fruity odor observed (qualitative evidence of ester formation)."
     },
     {
-      "name": "Acetylation",
-      "equation": "Acide salicylique + anhydride acetique -> acide acetylsalicylique + acide acetique",
-      "products": ["acide acetylsalicylique", "acide acetique"],
-      "observation": "solide blanc apres filtration"
+      "name": "Reaction 2 (acetylation / aspirin synthesis)",
+      "equation": "Salicylic acid + acetic anhydride -> acetylsalicylic acid (aspirin) + acetic acid",
+      "products": [
+        "acetylsalicylic acid (aspirin)",
+        "acetic acid"
+      ],
+      "observation": "White solid formed; yields above 100% suggest impurities and incomplete drying."
     }
   ],
   "key_reagents": [
-    "acide sulfurique",
-    "acide acetique",
+    "sulfuric acid (acid catalyst)",
+    "acetic acid",
     "pentanol",
-    "acide salicylique",
-    "anhydride acetique"
+    "salicylic acid",
+    "acetic anhydride"
   ],
   "metrics": {
     "molar_mass_aspirin_g_per_mol": 180.17,
@@ -38,6 +48,12 @@
     "limiting_reagent_moles": 0.0217,
     "theoretical_aspirin_mass_g": 3.909
   },
-  "conclusion": "La chaleur et le catalyseur ont favorise la formation du produit, mais la precision du rendement a ete affectee par des erreurs experimentales.",
-  "provenance": "Structured from the visible source excerpt in this demo."
+  "conclusion": {
+    "summary": "The ester was formed successfully (fruity odor observed). The synthesis of aspirin produced a white solid, but some yields exceeding 100% indicate impurities and incomplete drying.",
+    "interpretation": "Heat and an acid catalyst promote product formation, but measurement and drying steps can bias yield calculations."
+  },
+  "provenance": {
+    "is_live_extraction": false,
+    "description": "This is a preprocessed extraction snapshot paired with data/source_excerpt.md for a static demo (no uploads)."
+  }
 }

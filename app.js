@@ -6,8 +6,6 @@ const copyBtn = document.getElementById('copyBtn');
 const excerptModeBtn = document.getElementById('excerptModeBtn');
 const fullModeBtn = document.getElementById('fullModeBtn');
 const modeMeta = document.getElementById('modeMeta');
-const pdfLink = document.getElementById('pdfLink');
-const pdfStatus = document.getElementById('pdfStatus');
 
 let rawData = null;
 let activeMode = 'excerpt';
@@ -50,23 +48,6 @@ function simplify(data) {
   };
 }
 
-async function checkPdfAvailability() {
-  try {
-    const res = await fetch('assets/source.pdf', { method: 'HEAD' });
-    if (res.ok) {
-      pdfStatus.textContent = 'PDF detected: click Open source PDF to view the owner-provided sample.';
-      return;
-    }
-  } catch (_err) {
-    // No-op: handled below.
-  }
-
-  pdfLink.setAttribute('aria-disabled', 'true');
-  pdfLink.style.pointerEvents = 'none';
-  pdfLink.style.opacity = '0.55';
-  pdfStatus.textContent = 'No PDF found at assets/source.pdf. You can keep this hidden, or add a static sample PDF.';
-}
-
 async function loadDemo() {
   const selected = MODES[activeMode];
   modeMeta.textContent = selected.label;
@@ -76,8 +57,6 @@ async function loadDemo() {
   const jsonRes = await fetch(selected.jsonPath);
   rawData = await jsonRes.json();
   jsonOut.textContent = JSON.stringify(rawData, null, 2);
-
-  await checkPdfAvailability();
 }
 
 function setMode(mode) {
